@@ -1,2 +1,3 @@
-# python-project-template
-A template for starting a Python based project
+# Bayesian mixture of polynomials
+
+This package implements a Bayesian mixture of polynomials in Tensorflow Probability.
